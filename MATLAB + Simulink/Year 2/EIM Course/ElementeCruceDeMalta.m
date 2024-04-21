@@ -1,0 +1,17 @@
+z1 = 15;
+z2 = 22;
+n1 = 2160;
+n2 = n1*abs(z1/z2); %turatia motorului de antrenare
+L = 250; %mm
+n = 1; %numarul de antrenori
+z = 5; %numarul de canale
+omega1 = pi*n2/30;
+lambda = sin(pi/z);
+R1 = L*lambda; %mm
+tm = pi*(1-2/z)/omega1;
+tr = pi*(1+2/z)/omega1;
+T = 2*pi/omega1;
+km = tm/T;
+kr = tr/T;
+k = km/kr;
+omega2max = lambda/(1-lambda)*omega1;

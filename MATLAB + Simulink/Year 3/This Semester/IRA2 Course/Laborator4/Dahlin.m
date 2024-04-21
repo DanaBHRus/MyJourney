@@ -1,0 +1,12 @@
+Hf = tf(0.2,conv([50,1],[3,1]),'iodelay',2);
+Te = 0.5;
+Hf_d = c2d(Hf,Te,'tustin');
+lambda = 11.25;
+Ho = tf(1,[lambda,1],'iodelay',2);
+Ho_d = c2d(Ho,Te,'tustin');
+num1 = [1 -1.836 0.8377];
+den1 = [7.654e-05 0.0001531 7.654e-05];
+num2 = [0.02174 0.02174];
+den2 = [1 -0.9565 0 0 -0.02174 -0.02174];
+Hr = tf(conv(num1,num2),conv(den1,den2),Te,'Variable','z^-1');
+y=step(feedback(Hr*Hf_d,1),0:Te:20);

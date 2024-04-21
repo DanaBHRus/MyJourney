@@ -1,0 +1,11 @@
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\bin\Debug\Lab3_p1.exe.config
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\bin\Debug\UF.mdf
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\bin\Debug\UF_log.ldf
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\bin\Debug\Lab3_p1.exe
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\bin\Debug\Lab3_p1.pdb
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\obj\x86\Debug\Lab3_p1.Form1.resources
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\obj\x86\Debug\Lab3_p1.Properties.Resources.resources
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\obj\x86\Debug\Lab3_p1.csproj.GenerateResource.Cache
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\obj\x86\Debug\Lab3_p1.exe
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\obj\x86\Debug\Lab3_p1.pdb
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Lab3_p1\Lab3_p1\obj\x86\Debug\Lab3_p1.csprojResolveAssemblyReference.cache

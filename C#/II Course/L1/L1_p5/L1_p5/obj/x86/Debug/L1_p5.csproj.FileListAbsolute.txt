@@ -1,0 +1,4 @@
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L1_p5\L1_p5\bin\Debug\L1_p5.exe
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L1_p5\L1_p5\bin\Debug\L1_p5.pdb
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L1_p5\L1_p5\obj\x86\Debug\L1_p5.exe
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L1_p5\L1_p5\obj\x86\Debug\L1_p5.pdb

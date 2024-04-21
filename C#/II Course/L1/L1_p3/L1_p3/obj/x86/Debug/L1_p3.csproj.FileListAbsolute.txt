@@ -1,0 +1,4 @@
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L1_p3\L1_p3\bin\Debug\L1_p3.exe
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L1_p3\L1_p3\bin\Debug\L1_p3.pdb
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L1_p3\L1_p3\obj\x86\Debug\L1_p3.exe
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L1_p3\L1_p3\obj\x86\Debug\L1_p3.pdb

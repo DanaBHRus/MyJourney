@@ -1,0 +1,19 @@
+U21 = 30;
+% Umax21 = sqrt(2)*U21;
+% sigma = 1.5;
+% Ustelatmax21 = sigma*sqrt(2)*U21;
+I2 = 2;
+% I2i = 0.7*I2;
+% I2stelat = 1.5*0.7*I2;
+R2stelat = 0.2;
+k = 2;
+rd = 0.4;
+% Ip = sqrt(2)*U21 / (R2stelat + k*rd);
+% Cf = 2.5 * 10^(-3);
+% deltatstelat = (R2stelat + k*rd)*Cf;
+% solved = 2*U21^2/(R2stelat + k*rd)*Cf;
+
+q = 7.45;
+Rrt = R2stelat + k*rd;
+RSN = U21/I2;
+Cfstelat = 1600*q*(Rrt + RSN)/Rrt/RSN;

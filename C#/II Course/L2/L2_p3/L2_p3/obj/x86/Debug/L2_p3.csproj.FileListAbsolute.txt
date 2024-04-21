@@ -1,0 +1,7 @@
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L2_p3\L2_p3\bin\Debug\L2_p3.exe
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L2_p3\L2_p3\bin\Debug\L2_p3.pdb
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L2_p3\L2_p3\obj\x86\Debug\L2_p3.Form1.resources
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L2_p3\L2_p3\obj\x86\Debug\L2_p3.Properties.Resources.resources
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L2_p3\L2_p3\obj\x86\Debug\L2_p3.csproj.GenerateResource.Cache
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L2_p3\L2_p3\obj\x86\Debug\L2_p3.exe
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\L2_p3\L2_p3\obj\x86\Debug\L2_p3.pdb

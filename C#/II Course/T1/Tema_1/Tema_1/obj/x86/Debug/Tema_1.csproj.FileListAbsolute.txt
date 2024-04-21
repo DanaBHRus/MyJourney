@@ -1,0 +1,8 @@
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Tema_1\Tema_1\bin\Debug\Tema_1.exe
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Tema_1\Tema_1\bin\Debug\Tema_1.pdb
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Tema_1\Tema_1\obj\x86\Debug\Tema_1.Form1.resources
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Tema_1\Tema_1\obj\x86\Debug\Tema_1.Properties.Resources.resources
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Tema_1\Tema_1\obj\x86\Debug\Tema_1.csproj.GenerateResource.Cache
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Tema_1\Tema_1\obj\x86\Debug\Tema_1.exe
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Tema_1\Tema_1\obj\x86\Debug\Tema_1.pdb
+C:\Users\rus_d\OneDrive\Documente\Visual Studio 2010\Projects\Tema_1\Tema_1\obj\x86\Debug\Tema_1.Form2.resources

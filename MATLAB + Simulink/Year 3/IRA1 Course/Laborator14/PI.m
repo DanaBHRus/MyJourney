@@ -1,0 +1,13 @@
+Hf = tf(2,conv([10,1],[5,1]),'iodelay',3);
+figure, step(feedback(Hf,1)), grid;
+gama_impus = 50;
+figure, bode(Hf), grid;
+faza = -165+gama_impus;
+omega_prim = 0.142;
+modul_omega_prim = -0.5;
+K = 10^(-modul_omega_prim/20);
+tau_i = 4/omega_prim;
+Hc = K*tf([tau_i 1],[tau_i 0]);
+Hd = Hc*Hf;
+Ho = feedback(Hd,1);
+figure, step(Ho), grid;

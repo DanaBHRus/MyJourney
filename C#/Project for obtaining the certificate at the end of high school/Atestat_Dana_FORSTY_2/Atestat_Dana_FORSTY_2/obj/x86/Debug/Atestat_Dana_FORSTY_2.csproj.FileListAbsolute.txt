@@ -1,0 +1,46 @@
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\atestat_2.mdf
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\atestat_2_log.ldf
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\Atestat_Dana_FORSTY_2.exe.config
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\Atestat_Dana_FORSTY_2.exe
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\Atestat_Dana_FORSTY_2.pdb
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form1.resources
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form2.resources
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form3.resources
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form4.resources
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form5.resources
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form6.resources
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Properties.Resources.resources
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.csproj.GenerateResource.Cache
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.exe
+C:\Users\razva\documents\visual studio 2010\Projects\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.pdb
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\Atestat_Dana_FORSTY_2.exe.config
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.exe
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.pdb
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\atestat_2.mdf
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\atestat_2_log.ldf
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\Atestat_Dana_FORSTY_2.exe
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\Atestat_Dana_FORSTY_2.pdb
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form1.resources
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form2.resources
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form3.resources
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form4.resources
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form5.resources
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form6.resources
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Properties.Resources.resources
+C:\Users\rus_d\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.csproj.GenerateResource.Cache
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\Atestat_Dana_FORSTY_2.exe.config
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.exe
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.pdb
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\atestat_2.mdf
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\atestat_2_log.ldf
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\Atestat_Dana_FORSTY_2.exe
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\bin\Debug\Atestat_Dana_FORSTY_2.pdb
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form1.resources
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form2.resources
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form3.resources
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form4.resources
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form5.resources
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Form6.resources
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.Properties.Resources.resources
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.csproj.GenerateResource.Cache
+D:\OneDrive\Desktop\Rus Dana-Bendis-Hera - FORSTY\Atestat_Dana_FORSTY_2\Atestat_Dana_FORSTY_2\obj\x86\Debug\Atestat_Dana_FORSTY_2.csprojResolveAssemblyReference.cache
